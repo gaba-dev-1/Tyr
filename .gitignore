@@ -1,0 +1,26 @@
+# Build outputs
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+node_modules/
+.env
+build/
+dist/
+target/
+.cache/
+
+# Game specific
+saves/
+replays/
+screenshots/
+player_data/
+game_logs/
+*.save
+*.replay
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
